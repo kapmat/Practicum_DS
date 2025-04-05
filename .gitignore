@@ -1,13 +1,2 @@
 .venv
-Projects/01_Предобработка_данных/datasets
-Projects/02_Исследовательский_анализ_данных/datasets
-Projects/03_Статистический_анализ_данных/datasets
-Projects/04_Сборный_проект_1/datasets
-Projects/05_Линейные_модели_в_машинном_обучении/datasets
-Projects/06_Обучение_с_учителем_качество_модели/datasets
-Projects/07_Сборный_проект_2/datasets
-Projects/08_Машинное_обучение_в_бизнесе/datasets
-Projects/09_Численные_методы/datasets
-Projects/10_Временные_ряды/datasets
-Projects/11_Машинное_обучение_для_текстов/datasets
-Projects/14_Выпускной_проект/datasets
+datasets/
